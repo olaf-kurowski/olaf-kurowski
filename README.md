@@ -5,8 +5,11 @@ Hi I'm Olaf from Poland, I have started an adventure with game development. I'm 
 
 ## My Hobbies
 - Handball
-- Gaming
 - Army / Military
+- Gaming
+Games I often play:
+ Overwatch, CSGO, League of legends, Witcher III, Dead By Daylight.
+
 
 ## Get in touch
 - Facebook: https://www.facebook.com/olaf.kurowski/
