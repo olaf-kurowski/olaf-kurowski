@@ -7,7 +7,7 @@ Hi I'm Olaf from Poland, I have started an adventure with game development. I'm 
 - Handball
 - Military
 - Gaming:
-<br>I often play : Overwatch, CSGO, League of legends, Witcher III, Dead By Daylight.
+<br>I often play : Overwatch,Apex Legends, Clash of clans, CSGO, League of legends, Witcher III, Dead By Daylight.
 
 
 
