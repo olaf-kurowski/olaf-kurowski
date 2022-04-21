@@ -14,3 +14,4 @@ Hi I'm Olaf from Poland, I have started an adventure with game development. I'm 
 ## Get in touch
 - Facebook: https://www.facebook.com/olaf.kurowski/
 - e-mail: olaf.kurowski@protonmail.com
+- Linkedin: https://www.linkedin.com/in/olaf-kurowski-a15643238/
